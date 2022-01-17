@@ -1,3 +1,3 @@
-# Aviato-Ledger - A business website for financial management
+# Aviato-Ledger - A business website for financial management using HTML AND CSS
 
-View Project: https://lucid-kowalevski-06670d.netlify.app/
+View Project: https://hotel-maverick-gg.netlify.app/
